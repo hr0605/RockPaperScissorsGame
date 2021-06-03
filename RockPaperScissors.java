@@ -4,7 +4,7 @@ import java.util.Random;
 public class RockPaperScissors {
 	public static void main(String[] args){
 		//Hamshika Rajkumar
-		// rock paper scissors game
+		//rock paper scissors game
 		
 		//declare variables and set up Scanner
 		final int SCISSORS = 0;
